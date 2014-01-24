@@ -1,0 +1,13 @@
+Source: kittens
+Section: python
+Priority: extra
+Maintainer: Gijs Molenaar <gijs@pythonic.nl>
+Build-Depends: debhelper (>= 8.0.0), python-all
+Standards-Version: 3.9.2
+Homepage: https://github.com/ska-sa/kittens
+X-Python-Version: 2.7
+
+Package: kittens
+Architecture: any
+Depends: ${python:Depends}, ${misc:Depends}
+Description: Collection of Python utility functions for purr, tigger, meqtrees and others
