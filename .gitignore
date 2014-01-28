@@ -1,0 +1,6 @@
+files
+kittens.debhelper.log
+kittens.postinst.debhelper
+kittens.prerm.debhelper
+kittens.substvars
+kittens/
