@@ -9,4 +9,9 @@ https://github.com/ska-sa/kittens
 
 These Debian files are used in this Launchpad PPA:
 
-https://launchpad.net/~ska-sa/+archive/meqtrees
+https://launchpad.net/~radio-astro/+archive/main
+
+
+packaging related issues should be reported here
+
+https://github.com/radio-astro/packaging
